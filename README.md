@@ -1,4 +1,4 @@
-Gerenciador Tricolor
+                                                      Gerenciador Tricolor
 
 Problema a ser resolvido:
 
