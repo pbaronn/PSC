@@ -1,82 +1,59 @@
-                                                      Gerenciador Tricolor
+                                                         Formulário para academia
 
-Problema a ser resolvido:
+Este projeto consiste em uma aplicação web para academias, permitindo o cadastro de alunos e o controle de documentos essenciais. O foco principal é a saúde e segurança dos alunos, garantindo um acompanhamento adequado das condições médicas para definir treinos ideais e prevenir acidentes e lesões.
 
-Muitas crianças treinam futebol sem a presença dos pais ou viajam para competições desacompanhadas. Em emergências, ter um sistema centralizado com os dados médicos e informações dos jogadores pode agilizar o atendimento e garantir mais segurança.
+                                                                Objetivo
+Criar um sistema que facilite o controle da saúde dos alunos através de um formulário médico, permitindo que instrutores personalizem treinos de acordo com suas condições e reduzam riscos de lesões. Além disso, o sistema ajudará na verificação de documentos obrigatórios, como atestados médicos, reforçando a segurança dentro da academia.
 
-Objetivo da Aplicação:
+                                                            Escopo do Projeto
 
-Criar um sistema web para uma escola de futebol, permitindo o gerenciamento de turmas, jogadores e informações médicas.
+Funcionalidades:
 
+•	Cadastro de Alunos (CRUD);
 
-Funcionalidades Principais:
+•	Check de documentos entregues;
 
- Login e Controle de Acesso:
- 
-•	Tela de login com autenticação de usuário.
+•	Formulário médico;
 
+•	Registro de mensalidade paga/não paga;
 
-Gerenciamento de Turmas:
+•	Login básico;
 
-•	Listagem das turmas cadastradas.
+•	Consulta de cadastro e status financeiro;
 
-•	Cada turma deve exibir: nome da turma, número de jogadores e um botão para acessar os jogadores.
-
-Gerenciamento de Jogadores:
-
-•	Exibir lista de jogadores dentro da turma.
-
-•	Para cada jogador, exibir nome, posição e opções de edição.
-
-•	Opção de adicionar novo jogador.
-
-Cadastro de Jogadores:
-
-•	Campos de dados básicos.
-
-•	Perguntas médicas.
-
-Edição e Exclusão de Jogadores:
-
-•	Tela para editar informações do jogador.
-
-•	Botões: Salvar, Cancelar e Excluir Jogador.
-
-Registro de Transação (Histórico de Alterações):
-
-•	Sempre que um jogador for cadastrado ou editado, registrar a data da alteração e o usuário responsável.
+•	Atualização do formulário médico quando necessário;
 
 
-Tecnologias
+                                                  Formulário Médico - Perguntas Essenciais:
+                                                  
 
-Frontend:
+•	Você possui alguma condição de saúde pré-existente? 
 
-•	HTML, CSS, JavaScript
+•	Já teve alguma lesão grave ou cirurgia recente?
 
-•	Framework: React.js
+•	Possui alguma restrição médica para atividades físicas?
 
-Backend:
+•	Está fazendo uso de alguma medicação contínua?
 
-•	Node.js com Express.js
+•	Tem alergia a algum medicamento ou substância?
 
-•	Banco de Dados: MySQL
+•	Já teve episódios de tontura, desmaio ou problemas cardíacos ao praticar exercícios?
 
-Autenticação:
-
-•	JWT
-
-Deploy e CI/CD:
-
-•	Repositório no GitHub
-
-•	Deploy no Vercel para frontend e Render para backend
-
-Gerenciamento do Projeto:
-
-•	Trello para acompanhar o progresso
-
-•	Figma para wireframes das telas
+•	Tem autorização médica para a prática de atividades físicas?
 
 
+                                 
+                                                      Tecnologias Utilizadas:
 
 
+•	React.js;
+
+•	Node.js com Express;
+
+•	Banco de dados MySQL;
+
+•	JWT para autenticação;
+
+•	GitHub;
+
+•	Trello.
