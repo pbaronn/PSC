@@ -11,8 +11,6 @@ Funcionalidades:
 
 •	Cadastro de Alunos (CRUD);
 
-•	Check de documentos entregues;
-
 •	Formulário médico;
 
 •	Login básico;
@@ -22,31 +20,13 @@ Funcionalidades:
 •	Atualização do formulário médico quando necessário;
 
 
-                                                  Formulário Médico - Perguntas Essenciais:
-                                                  
-
-•	Você possui alguma condição de saúde pré-existente? 
-
-•	Já teve alguma lesão grave ou cirurgia recente?
-
-•	Possui alguma restrição médica para atividades físicas?
-
-•	Está fazendo uso de alguma medicação contínua?
-
-•	Tem alergia a algum medicamento ou substância?
-
-•	Já teve episódios de tontura, desmaio ou problemas cardíacos ao praticar exercícios?
-
-•	Tem autorização médica para a prática de atividades físicas?
+                                                                     
+                                                         Tecnologias Utilizadas:
 
 
-                                 
-                                                      Tecnologias Utilizadas:
+•	HTML, CSS, JS;
 
-
-•	HTML, CSS, JS
-
-•	Node.js com Express;
+•	Node.js com Express(estruturar as rotas, lidar com requisições HTTP e configurar a aplicação);
 
 •	Banco de dados MySQL;
 
